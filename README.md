@@ -88,6 +88,6 @@ Looking for the Version 5 documentation? [View legacy documentation](https://v5.
     <img width="75px" src="https://static.invertase.io/assets/invertase/invertase-rounded.png">
   </a>
   <p align="center">
-    Built and maintained by <a href="https://invertase.io/?utm_source=readme&utm_medium=footer&utm_campaign=react-native-firebase">Invertase</a>.
+    Built and maintained by <l ksref="https://invertase.io/?utm_source=readme&utm_medium=footer&utm_campaign=react-native-firebase">Invertase</a>.
   </p>
 </p>
